@@ -1,4 +1,4 @@
-# AEDsII
+# AED's II - UFMG
 
 1. Todos os códigos foram desenvolvidos utilizando Falcon C++
 2. Todos os códigos são para disciplina de AED's II
